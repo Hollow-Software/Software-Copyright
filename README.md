@@ -43,3 +43,9 @@ Here is a collection of repository that has applied for the Software Copyright.
 <img src="Hollow%20Software%20for%20Smartly%20Memorizing%20Words/Certificate%202020SR0839716.jpg" width="370"/>
 
   * [Hollow Software for Smartly Memorizing Words](Hollow%20Software%20for%20Smartly%20Memorizing%20Words)
+
+* 人脸识别门禁系统 2019SR1388115 （团队合作为兰州大学开发）
+
+<img src="https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code/raw/master/2019SR1388115.jpg" width="370"/>
+
+* [Face Recognition Lock System (Team work for Lanzhou University)](https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code)

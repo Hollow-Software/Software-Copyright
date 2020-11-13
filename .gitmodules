@@ -1,3 +1,7 @@
 [submodule "Hollow Software for Picture Video Information Hiding Encryption and Decryption"]
 	path = "Hollow Software for Picture Video Information Hiding Encryption and Decryption/Hollow Software for Picture Video Information Hiding Encryption and Decryption"
 	url = https://github.com/HollowMan6/Hollow-Software-for-Picture-Video-Information-Hiding-Encryption-and-Decryption.git
+
+[submodule "Face Recognition Lock System"]
+	path = "Face Recognition Lock System"
+	url = https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code.git
