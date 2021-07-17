@@ -22,30 +22,30 @@ Here is a collection of repository that has applied for the Software Copyright.
 
 * Hollow 图片（视频）信息隐藏加解密软件 2020SR0079950
 
-<img src="Hollow%20Software%20for%20Picture%20Video%20Information%20Hiding%20Encryption%20and%20Decryption/Certificate%202020SR0079950.jpg" width="370"/>
+<img src="https://hollowman6.github.io/img/software-copyright/Certificate%202020SR0079950.jpg" width="370"/>
 
   * [Hollow Software for Picture & Video Information Hiding Encryption and Decryption](https://github.com/HollowMan6/Hollow-Software-for-Picture-Video-Information-Hiding-Encryption-and-Decryption)
 
 * Hollow Jack语言编译软件 2020SR0839702
 
-<img src="Hollow%20Software%20for%20Jack%20Compiler/Certificate%202020SR0839702.jpg" width="370"/>
+<img src="https://hollowman6.github.io/img/software-copyright/Certificate%202020SR0839702.jpg" width="370"/>
 
   * [Hollow Software for Jack Compiler](Hollow%20Software%20for%20Jack%20Compiler)
 
 * Hollow 体育中心管理系统软件 2020SR0839709
 
-<img src="Hollow%20Software%20System%20for%20Sport%20Centre%20Management/Certificate%202020SR0839709.jpg" width="370"/>
+<img src="https://hollowman6.github.io/img/software-copyright/Certificate%202020SR0839709.jpg" width="370"/>
 
   * [Hollow Software System for Sport Centre Management](Hollow%20Software%20System%20for%20Sport%20Centre%20Management)
 
 * Hollow 智能背单词软件 2020SR0839716
 
-<img src="Hollow%20Software%20for%20Smartly%20Memorizing%20Words/Certificate%202020SR0839716.jpg" width="370"/>
+<img src="https://hollowman6.github.io/img/software-copyright/Certificate%202020SR0839716.jpg" width="370"/>
 
   * [Hollow Software for Smartly Memorizing Words](Hollow%20Software%20for%20Smartly%20Memorizing%20Words)
 
 * 人脸识别门禁系统 2019SR1388115 （团队合作为兰州大学开发）
 
-<img src="https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code/raw/master/2019SR1388115.jpg" width="370"/>
+<img src="https://hollowman6.github.io/img/software-copyright/2019SR1388115.jpg" width="370"/>
 
 * [Face Recognition Lock System (Team work for Lanzhou University)](https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code)
